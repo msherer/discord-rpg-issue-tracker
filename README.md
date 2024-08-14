@@ -24,26 +24,26 @@ The project is managed through markdown files located in the `tickets` directory
 
 #### Completed
 
-- [Set Up Discord Bot and Basic Commands](completed/task-setup-bot.md)
-- [Develop Character Creation System](completed/task-character-creation.md)
-- [Implement Exploration System](completed/task-exploration-system.md)
-- [Develop Combat System](completed/task-combat-system.md)
-- [Implement Inventory Management](completed/task-inventory-management.md)
+- [Set Up Discord Bot and Basic Commands](tickets/completed/task-setup-bot.md)
+- [Develop Character Creation System](tickets/completed/task-character-creation.md)
+- [Implement Exploration System](tickets/completed/task-exploration-system.md)
+- [Develop Combat System](tickets/completed/task-combat-system.md)
+- [Implement Inventory Management](tickets/completed/task-inventory-management.md)
 
 #### In Progress
 
-- [Create Quest Framework](in-progress/task-quest-framework.md)
+- [Create Quest Framework](tickets/in-progress/task-quest-framework.md)
 
 #### Backlog
 
-- [Develop Progression System](backlog/task-progression-system.md)
-- [Introduce Social and Team Mechanics](backlog/task-social-features.md)
-- [Conduct Playtesting and Gather Feedback](backlog/task-playtesting.md)
-- [Polish and Prepare for Launch](backlog/task-polish-launch.md)
-- [Develop Achievement System](backlog/task-achievement-system.md)
-- [Add Daily/Weekly Challenges](backlog/task-daily-weekly-challenges.md)
-- [Introduce Guilds and Social Interaction Features](backlog/task-social-interaction-features.md)
-- [Develop Marketplace/Economy System](backlog/task-marketplace-economy-system.md)
+- [Develop Progression System](tickets/backlog/task-progression-system.md)
+- [Introduce Social and Team Mechanics](tickets/backlog/task-social-features.md)
+- [Conduct Playtesting and Gather Feedback](tickets/backlog/task-playtesting.md)
+- [Polish and Prepare for Launch](tickets/backlog/task-polish-launch.md)
+- [Develop Achievement System](tickets/backlog/task-achievement-system.md)
+- [Add Daily/Weekly Challenges](tickets/backlog/task-daily-weekly-challenges.md)
+- [Introduce Guilds and Social Interaction Features](tickets/backlog/task-social-interaction-features.md)
+- [Develop Marketplace/Economy System](tickets/backlog/task-marketplace-economy-system.md)
 
 ## Next Steps and Ongoing Maintenance
 
