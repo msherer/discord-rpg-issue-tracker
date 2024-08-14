@@ -1,19 +1,21 @@
 # Discord RPG Issue Tracker
 This repository is to be used for tracking issues, feature requests, and improvements
 
-# Discord RPG Bot Project
+---
+
+## Discord RPG Bot Project
 
 Welcome to the Discord RPG Bot project! This README outlines the project's objectives and provides links to individual task tickets for development tracking.
 
-## Project Overview
+### Project Overview
 
 **Objective**: Develop a Discord RPG bot that allows players to explore a dynamic world, engage in combat, manage inventories, and progress through quests, all within a Discord server.
 
-## Task Management
+### Task Management
 
 The project is managed through markdown files located in the `tickets` directory. Each file represents a task or feature to be developed. Tasks can be moved between directories to track progress.
 
-### Task Directories
+#### Task Directories
 
 - **Backlog**: Tasks that have been defined but not yet started.
 - **In Progress**: Tasks currently being worked on.
@@ -45,11 +47,11 @@ The project is managed through markdown files located in the `tickets` directory
 - [Introduce Guilds and Social Interaction Features](tickets/backlog/task-social-interaction-features.md)
 - [Develop Marketplace/Economy System](tickets/backlog/task-marketplace-economy-system.md)
 
-## Next Steps and Ongoing Maintenance
+### Next Steps and Ongoing Maintenance
 
 Plan future updates and content, and maintain active communication with players to gather feedback and suggestions.
 
-## Contribution Guidelines
+### Contribution Guidelines
 
 - Move task files to the appropriate directory as they progress.
 - Update tasks with notes and completed subtasks.
