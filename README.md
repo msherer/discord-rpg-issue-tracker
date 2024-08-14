@@ -38,14 +38,14 @@ The project is managed through markdown files located in the `tickets` directory
 
 #### Backlog
 
-- [Develop Progression System](tickets/backlog/task-progression-system.md)
-- [Introduce Social and Team Mechanics](tickets/backlog/task-social-features.md)
-- [Conduct Playtesting and Gather Feedback](tickets/backlog/task-playtesting.md)
-- [Polish and Prepare for Launch](tickets/backlog/task-polish-launch.md)
-- [Develop Achievement System](tickets/backlog/task-achievement-system.md)
-- [Add Daily/Weekly Challenges](tickets/backlog/task-daily-weekly-challenges.md)
-- [Introduce Guilds and Social Interaction Features](tickets/backlog/task-social-interaction-features.md)
-- [Develop Marketplace/Economy System](tickets/backlog/task-marketplace-economy-system.md)
+1. [Develop Progression System](tickets/backlog/task-progression-system.md)
+2. [Develop Marketplace/Economy System](tickets/backlog/task-marketplace-economy-system.md)
+3. [Introduce Social and Team Mechanics](tickets/backlog/task-social-features.md)
+4. [Introduce Guilds and Social Interaction Features](tickets/backlog/task-social-interaction-features.md)
+5. [Develop Achievement System](tickets/backlog/task-achievement-system.md)
+6. [Add Daily/Weekly Challenges](tickets/backlog/task-daily-weekly-challenges.md)
+7. [Conduct Playtesting and Gather Feedback](tickets/backlog/task-playtesting.md)
+8. [Polish and Prepare for Launch](tickets/backlog/task-polish-launch.md)
 
 ### Next Steps and Ongoing Maintenance
 
