@@ -4,12 +4,12 @@
 
 ## Subtasks
 
-- [ x ] Define character attributes (e.g., Strength, Dexterity, Intelligence).
-- [ x ] Design character classes and races.
-- [ x ] Implement character creation logic and storage.
-- [ x ] Develop commands for character management:
-    - [ x ] `!rpg update-character`: Update character attributes or class.
-    - [ x ] `!rpg delete-character`: Delete a character profile.
+- [x] Define character attributes (e.g., Strength, Dexterity, Intelligence).
+- [x] Design character classes and races.
+- [x] Implement character creation logic and storage.
+- [x] Develop commands for character management:
+    - [x] `!rpg update-character`: Update character attributes or class.
+    - [x] `!rpg delete-character`: Delete a character profile.
 
 ## Notes
 

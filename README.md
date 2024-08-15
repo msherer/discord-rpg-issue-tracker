@@ -32,9 +32,12 @@ The project is managed through markdown files located in the `tickets` directory
 - [Develop Combat System](tickets/completed/task-combat-system.md)
 - [Implement Inventory Management](tickets/completed/task-inventory-management.md)
 
+#### Dev Testing
+
+- [Create Quest Framework](tickets/dev-testing/task-quest-framework.md)
+
 #### In Progress
 
-- [Create Quest Framework](tickets/in-progress/task-quest-framework.md)
 
 #### Backlog
 

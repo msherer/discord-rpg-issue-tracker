@@ -4,10 +4,10 @@
 
 ## Subtasks
 
-- [ x ] Design a basic world map or location structure.
-- [ x ] Implement exploration mechanics:
-    - [ x ] `!rpg explore [area]`: Command to explore new areas.
-    - [ x ] Generate random events or encounters during exploration.
+- [x] Design a basic world map or location structure.
+- [x] Implement exploration mechanics:
+    - [x] `!rpg explore [area]`: Command to explore new areas.
+    - [x] Generate random events or encounters during exploration.
 
 ## Notes
 

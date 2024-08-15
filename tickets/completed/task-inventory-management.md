@@ -4,11 +4,11 @@
 
 ## Subtasks
 
-- [ x ] Define item data structure (e.g., name, type, stats).
-- [ x ] Implement inventory management commands:
-    - [ x ] `!rpg inventory`: View current inventory.
-    - [ x ] `!rpg equip [item]`: Equip an item.
-    - [ x ] `!rpg unequip [item]`: Unequip an item.
+- [x] Define item data structure (e.g., name, type, stats).
+- [x] Implement inventory management commands:
+    - [x] `!rpg inventory`: View current inventory.
+    - [x] `!rpg equip [item]`: Equip an item.
+    - [x] `!rpg unequip [item]`: Unequip an item.
 
 ## Notes
 

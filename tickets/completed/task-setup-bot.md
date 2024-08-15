@@ -4,13 +4,13 @@
 
 ## Subtasks
 
-- [ x ] Register and configure the Discord bot application.
-- [ x ] Implement bot login and connection logic using `discord.js`.
-- [ x ] Develop a command handler to parse and execute commands.
-- [ x ] Implement basic commands:
-    - [ x ] `!rpg help`: Display available commands.
-    - [ x ] `!rpg create-character`: Start character creation process.
-    - [ x ] `!rpg view-character`: Show character details.
+- [x] Register and configure the Discord bot application.
+- [x] Implement bot login and connection logic using `discord.js`.
+- [x] Develop a command handler to parse and execute commands.
+- [x] Implement basic commands:
+    - [x] `!rpg help`: Display available commands.
+    - [x] `!rpg create-character`: Start character creation process.
+    - [x] `!rpg view-character`: Show character details.
 
 ## Notes
 

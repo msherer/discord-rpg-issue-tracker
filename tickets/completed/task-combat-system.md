@@ -4,11 +4,11 @@
 
 ## Subtasks
 
-- [ x ] Design combat mechanics (e.g., turn order, attack and defense).
-- [ x ] Implement basic combat commands:
-    - [ x ] `!rpg attack [enemy]`: Perform an attack.
-    - [ x ] `!rpg defend`: Reduce damage from incoming attacks.
-    - [ x ] `!rpg use [ability/item]`: Utilize special abilities or items.
+- [x] Design combat mechanics (e.g., turn order, attack and defense).
+- [x] Implement basic combat commands:
+    - [x] `!rpg attack [enemy]`: Perform an attack.
+    - [x] `!rpg defend`: Reduce damage from incoming attacks.
+    - [x] `!rpg use [ability/item]`: Utilize special abilities or items.
 
 ## Notes
 
